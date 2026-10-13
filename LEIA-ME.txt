@@ -1,0 +1,6 @@
+TixamHub
+
+Arquivo do script: TixamHub.lua
+Imagem da capa: TixamHub-Capa.png
+
+A imagem é a capa/ícone visual; ela não substitui o código Lua. Para exibir a imagem como ícone do arquivo no sistema, é necessário configurar um ícone/atalho no sistema operacional.
